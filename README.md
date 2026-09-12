@@ -1,4 +1,4 @@
-![Sara Maza Hernández — Software Engineer · AI & Automation](assets/banner.png)
+![Sara Maza Hernández — Software Engineer · AI & Automation](assets/baner.png)
 
 # Hi, I'm Sara 👋
 
