@@ -18,12 +18,12 @@ products through AI, automation, and full-stack development.
 
 | Project | What it does |
 | --- | --- |
-| **Signal Patch** | Helps developers validate AI-proposed code fixes through GitHub integration and automated tests. |
-| **Dulce María** | A bakery platform connecting a product catalog, order tracking, and automated business workflows. |
+| **Signal Patch** | Helps developers validate AI-proposed code fixes through GitHub integration and automated tests. https://signal-patch.sara-mhdez96.workers.dev/ |
+| **Dulce María** | A bakery platform connecting a product catalog, order tracking, and automated business workflows. https://dulcemariagourmet.com/|
 | **TRANSMART** | A cloud transportation management platform built from scratch with Angular, TypeScript, Node.js, Flutter, Firebase, Google Maps API, and a serverless AWS architecture. Patent: MX 03-2021-070515064000-01. https://youtu.be/YRpKakRa3Ug -  https://drive.google.com/file/d/1gQ5BMDMXabSW0TqPxLHv_45KscGTRZLP/view?usp=drive_link | 
 | **Designal** | A patented electromagnetic signal monitoring application for radio stations in Mexico City, integrating GPS and radio frequency data processing. Patent: MX 03-2018-032010321900-01. |
 | **AI Appointment Agent** | A conversational AI agent designed to qualify leads, coordinate appointments, and connect scheduling workflows with business systems. |
-| **SarKode** | My software and AI agency, focused on building custom applications, AI agents, and workflow automation for businesses. |
+| **SarKode** | My software and AI agency, focused on building custom applications, AI agents, and workflow automation for businesses. https://sarkode.com/ |
 
 ### A little about me
 
